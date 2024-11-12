@@ -1,0 +1,5 @@
+nomLecon('Approfondissement')
+ajouterLigne('xfer')
+ajouterLigne('eeeee')
+ajouterLigne('xvszghr')
+suivante('1A', 'Test')

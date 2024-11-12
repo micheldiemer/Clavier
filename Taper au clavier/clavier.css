@@ -1,0 +1,44 @@
+body,
+input[type='text'],
+ligne {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 36pt;
+}
+
+.ligne {
+  display: block;
+  border: 1px solid wheat;
+  padding: 50;
+  margin: 50;
+}
+
+input {
+  border: 1px solid black;
+}
+
+input.ligne,
+div.ligne {
+  border: 1px solid grey;
+  margin-bottom: 1em;
+}
+
+input.ligne {
+  display: none;
+}
+
+input:focus {
+  outline: none;
+  border: 1px solid black;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+a:focus {
+  font-weight: 800;
+}
